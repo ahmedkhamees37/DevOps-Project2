@@ -50,6 +50,9 @@ This web application displays lists of board games and their reviews. While anyo
 4. To use initial user data, use the following credentials.
   - username: bugs    |     password: bunny (user role)
   - username: daffy   |     password: duck  (manager role)
-5. You can also sign-up as a new user and customize your role to play with the application! 😊
-![Uploading image.png…]()
+5. You can also sign-up as a new user and customize your role to play with the
+
+![image](https://github.com/user-attachments/assets/e587f10f-a097-4d8c-9180-626d1a7e9524)
+
+
 
